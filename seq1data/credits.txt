@@ -1,0 +1,41 @@
+Note: CC0 means either CC0 or public domain
+electron.png - me
+penny.png - CC0
+iphone7plus.png - CC-BY-SA 4.0, Rafael Fernandez, Wikipedia
+ipadpro.png - CC-BY-SA 4.0, Moonsprite, Wikipedia
+human.png - CC0
+hubble.png - CC0
+voyager1.png - CC0
+saturn_v.png - CC0
+football_field.png - CC-BY-SA 3.0, Razorbliss, Wikipedia
+uss_enterprise.png - CC-BY-SA 2.0, Delphine Menard, Wikipedia
+bennu.png - CC0
+vesta.png - CC0
+ceres.png - CC0
+pluto.png - CC0
+moon.png - CC-BY-SA 3.0, Gregory H. Revera, Wikipedia
+mars.png - CC-BY-SA 3.0, ESA
+earth.png - CC0
+uranus.png - CC0
+jupiter.png - CC0
+proxima_centauri.png - CC0
+sun.png - CC0
+sirius.png - CC0
+pollux.png - Sephirohq, Wikipedia
+arcturus.png - es08, Wikipedia
+pistol_star.png - own
+betelgeuse.png - FlagAuthor, Wikipedia
+ky_cygni.png - FlagAuthor, Wikipedia
+kuiper_belt.png - CC-BY-SA 3.0, WilyD, Wikipedia
+crab_nebula.png - CC0
+eagle_nebula.png - CC-BY 4.0, ESO
+local_interstellar_cloud.png - CC0
+small_magellanic_cloudl.png - CC-BY 4.0, ESA/Hubble
+triangulum.png - CC-BY-SA 4.0, Azcolvin429, Wikipedia
+hoagsobject.png - CC0
+pinwheel_galaxy.png - CC-BY 3.0, NASA & ESA
+andromeda.png - CC-BY 2.0, NotFromUtrecht, Wikipedia
+local_group.png - CC-BY-SA 4.0, Antonio Ciccolella, Wikipedia
+virgo_supercluster.png - CC-BY-SA 2.5 generic, Richard Powell, Wikipedia
+laniakea_supercluster.png - CC-BY-SA 4.0, Drbogdan, Wikipedia
+observable_universe.png - CC-BY-SA 3.0, Unmismoobjetivo, Wikipedia
